@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hotpack8424 a university student
+- 👋 Hi, I’m Sumin Choi a joongbu university student
 - 🌱 I’m currently learning : java script, JAVA, C etc.. 
 - 📫 How to reach me
 e-mail address : jbsumin8424@gmail.com
